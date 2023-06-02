@@ -137,11 +137,3 @@ Please note that in order to use this package, you need a WordPress website that
 
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-Contact
-For any queries or suggestions, feel free to contact me:
-
-Keyvan Hardani
-Email: hello@keyvan.ai
-GitHub: https://github.com/Keyvanhardani/streamlit-wordpress-authentication
-Please ensure to replace all placeholder text with actual values.
