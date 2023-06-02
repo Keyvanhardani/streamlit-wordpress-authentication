@@ -1,5 +1,9 @@
 #   WordPress Authentication for Streamlit
 
+* Please note that in order to use this package, you need a WordPress website that supports the JWT Authentication plugin. To get started, you will first need to install the WordPress Plugin. Here is the GitHub page where you can find the WordPress Plugin: WordPress Streamlit Integration Plugin
+
+After installing the WordPress Plugin, you can proceed with the installation of the Python
+
 This Python package allows users of a Streamlit app to authenticate with a WordPress website via JSON Web Tokens (JWT).
 
 ## Installation
